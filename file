@@ -1,0 +1,6 @@
+read a#hello#
+read b #dfgdfgfgsf
+c = a + b - 3.2
+b = a+b#ben
+write c # asdfasdfa
+if (a == b) #ben
